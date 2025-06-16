@@ -7,7 +7,7 @@ import Markdown from "react-markdown";
 import rehypeHighlight from "rehype-highlight";
 import "highlight.js/styles/github-dark.css";
 import axios from "axios";
-import "./app.css"
+import "./App.css"
 
 const App = () => {
 
