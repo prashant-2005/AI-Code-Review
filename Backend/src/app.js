@@ -8,7 +8,6 @@ app.use(cors(
     {
       origin: [
         "http://localhost:5173",
-        "https://ai-code-review-bay.vercel.app"
       ],
       credentials: true
     }
